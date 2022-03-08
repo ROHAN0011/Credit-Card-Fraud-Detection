@@ -1,4 +1,4 @@
 # Credit-Card-Fraud-Detection
 ### DSC VIT ML Fest'22 Project
 
-<p align= "center"><img src="https://github.com/ROHAN0011/ML-Fest-22/blob/3082e10b0589accadeb92b4f0c51039df3c2d8c9/MLFest'22.jpeg" width="800" height= "350"></p>
+<p align= "center"><img src="https://github.com/ROHAN0011/Credit-Card-Fraud-Detection/blob/af97ac5df66a16ed2af52823f8d8e7b679a73033/Credit%20Card%20Fraud%20Detection.png" width="700" height= "350"></p>
